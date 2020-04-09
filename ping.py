@@ -1,4 +1,5 @@
 #R&D ICWR
+# Script Beginian Mau Copas ?
 #LunaticTech Lab
 
 import requests
